@@ -3,97 +3,37 @@
 
 
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/</loc>
+  <loc>https://dnp3-protocol.vercel.app/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-60870-5-104/</loc>
+  <loc>https://dnp3-protocol.vercel.app/dnp3/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-104-server-simulator/</loc>
+  <loc>https://dnp3-protocol.vercel.app/dnp3-outstation-simulator/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-104-client-simulator/</loc>
+  <loc>https://dnp3-protocol.vercel.app/dnp3-client-master-simulator/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-60870-5-104-windows-sdk/</loc>
+  <loc>https://dnp3-protocol.vercel.app/dnp3-windows-development-sdk/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-60870-5-104-linux-sdk/</loc>
+  <loc>https://dnp3-protocol.vercel.app/dnp3-linux-development-sdk/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-104-source-code-library/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-60870-5-101/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-101-server-simulator/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-101-client-simulator/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-60870-5-101-windows-sdk/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-60870-5-101-linux-sdk/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/iec-101-source-code-library/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/dnp3/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/dnp3-outstation-simulator/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/dnp3-client-master-simulator/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/dnp3-windows-development-sdk/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/dnp3-linux-development-sdk/</loc>
-  <lastmod>2022-10-04T14:50:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://dnp3-iec60870-5-104-iec101.netlify.app/dnp3-source-code-library/</loc>
+  <loc>https://dnp3-protocol.vercel.app/dnp3-source-code-library/</loc>
   <lastmod>2022-10-04T14:50:05+00:00</lastmod>
   <priority>0.80</priority>
 </url>
